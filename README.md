@@ -47,9 +47,11 @@ To start the game, run the following command in your terminal:
 
 ## Running the Game
 
-**Game Developer**: Your Name
-**Graphics**: [Graphics Source]
-**Sound Effects**: [Graphics Source]
+**Game Developer**: Your Name 
+
+**Graphics**: [Graphics Source] 
+
+**Sound Effects**: [Graphics Source] 
 
 ## License
 
